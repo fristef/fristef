@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fristef
-- 👀 I’m interested in guitars, music, circuits, radars, F1, DSP and football
+- 👀 I’m interested in guitars, music, circuits, radars, F1, ML, DSP and football
 - 🌱 I’m currently learning ROS2
 - 💞️ I’m looking to collaborate on new ideas
 - 📫 How to reach me: email
